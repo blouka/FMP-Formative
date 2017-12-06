@@ -47,6 +47,18 @@ The target market I have chosen is 16 - 24 years olds, but also as my app is use
 
 <br>
 
+### Sketches
+<br>
+
+[Sketch 1](https://github.com/blouka/FMP-Formative/blob/master/Sketch%201.jpeg)
+
+[Mind Map](https://github.com/blouka/FMP-Formative/blob/master/Mind%20map.jpeg)
+
+[Theory of change](https://github.com/blouka/FMP-Formative/blob/master/Theory%20of%20change.jpeg)
+
+<br>
+
+
 ### Blogposts
 <br>
 
